@@ -10,3 +10,8 @@ body{
 .highlight{
     color: #ff0000
 }
+
+#introText{
+    width: 471px;
+    float: left;
+}
