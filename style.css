@@ -15,3 +15,20 @@ body{
     width: 471px;
     float: left;
 }
+
+#profilePicture{
+    float: left;
+}
+
+.reset{
+    clear: both;
+}
+
+#hobbieText{
+    width: 380px;
+    float: left;
+}
+
+#heroShot{
+    float: left;
+}
