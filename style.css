@@ -1,0 +1,12 @@
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, "Helvetica Neue", sans-serif;
+}
+
+#mainHeading {
+    color:#2f6ee4
+}
+
+.highlight{
+    color: #ff0000
+}
