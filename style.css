@@ -4,16 +4,15 @@ body{
     margin: 0px;
 }
 
+/*headings*/
+
 h1{
     margin: 0px;
 }
 
+/*ID's*/
 #mainHeading {
     color:#2f6ee4
-}
-
-.highlight{
-    color: #ff0000
 }
 
 #introText{
@@ -27,9 +26,6 @@ h1{
     margin: 0px 0px 38px 0px;
 }
 
-.reset{
-    clear: both;
-}
 
 #hobbieText{
     width: 380px;
@@ -38,10 +34,13 @@ h1{
 
 #heroShot{
     float: left;
+    margin: 0px 0px 38px 0px;
+    border-radius: 30px;
 }
 
 #funnyImage{
     float: left;
+    border-radius: 900px;
 }
 
 #socials{
@@ -54,4 +53,13 @@ h1{
 #pageContainer{
     width: 900px;
     margin: 0px auto 0px auto;
+}
+
+/*Categories*/
+.highlight{
+    color: #ff0000
+}
+
+.reset{
+    clear: both;
 }
