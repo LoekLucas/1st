@@ -15,6 +15,24 @@ h1{
     color:#2f6ee4
 }
 
+#navigation {
+    background-color: #7fb2ce;
+}
+
+#navigation a {
+    text-decoration: none;
+    background-color: #1a375f;
+    color: #FFFFFF;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 20px 0px 0px;
+    display: block;
+    float: left;
+}
+
+#navigation a:hover {
+    background-color: #124c9c;
+}
+
 #introText{
     width: 471px;
     float: left;
